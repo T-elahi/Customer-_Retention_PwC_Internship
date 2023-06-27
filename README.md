@@ -1,4 +1,4 @@
-# Customer-_Retention_PwC_Internship.Dataset
+# Customer-_Retention_PwC_Internship
 
 It consists of 1 excel file contains 1 sheet only
 
