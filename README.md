@@ -67,4 +67,4 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 
 **Tools**
 
-**PowerPoint Power BI **
+**Power BI **
