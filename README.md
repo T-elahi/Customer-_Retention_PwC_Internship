@@ -1,6 +1,8 @@
-Dataset:
+**Customer_Retention_PwC_Internship**
 
-It consists of 1 excel file contains 1 sheet only: 02 Churn-Dataset.xlsx
+**Dataset**
+It consists of 1 excel file contains 1 sheet only
+02 Churn-Dataset.xlsx
 
 **Dataset columns:**
 •	customerID: Customer ID
@@ -25,7 +27,7 @@ It consists of 1 excel file contains 1 sheet only: 02 Churn-Dataset.xlsx
 •	TotalCharges: The total amount charged to the customer
 •	Churn: Whether the customer churned or not (Yes or No)
 
-**Task Details:**
+**Task Details**
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
@@ -35,7 +37,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 •	We have done customer analysis with Excel: it has always ended in a dead-end
 •	We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information
 
-**Email message:**
+**Email message**
 
 Hi Digital Accelerator,
 
@@ -43,13 +45,13 @@ I’m Janet, Retention Manager here at PhoneNow. Before you start working on our
 •	Customers who left within the last month
 •	Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 •	Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
-•	Demographic info about customers – gender, age range, and if they have partners and dependents.
+•	Demographic info about customers – gender, age range, and if they have partners and dependents
 
 Looking forward to hearing from you.
 Best regards,
 Janet
 
-**Task Information:**
+**Task Information**
 
 Your colleague, the engagement partner, asks you to do the following tasks:
 
